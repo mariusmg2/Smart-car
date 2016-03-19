@@ -8,5 +8,8 @@ typedef struct {
 }protocol;
 
 int getDutycycle(protocol *buffer);
-
+int Forward (protocol *buffer);
+int Backword (protocol *buffer);
+int Makeleft(protocol *buffer);
+int Makeright(protocol *buffer);
 
