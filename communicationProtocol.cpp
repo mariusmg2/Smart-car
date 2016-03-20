@@ -35,3 +35,7 @@ int checkMakeRight(protocol *buffer) {
   }
   return 0;
 }
+
+int getSpeed(protocol *buffer) {
+  if(buffer->Send == 2 && )
+}
