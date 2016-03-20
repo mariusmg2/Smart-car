@@ -12,4 +12,7 @@ int checkForwardCommand (protocol *buffer);
 int checkBackwardCommand (protocol *buffer);
 int checkMakeLeft(protocol *buffer);
 int checkMakeRight(protocol *buffer);
-
+int checkStop(protocol *buffer);
+int checkSpeed(protocol *buffer);
+int checkSign(protocol *buffer);
+int checkdistance(protocol *buffer);
