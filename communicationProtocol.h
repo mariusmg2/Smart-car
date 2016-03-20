@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define Send 1;
 
 typedef struct {
   unsigned char head;
