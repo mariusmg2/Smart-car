@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define cRead 1;
+#define cReceve 1;
 #define cSend 2;
 #define cForwoard 1;
 #define cBackword 2;
